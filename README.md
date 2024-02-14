@@ -8,8 +8,11 @@ Visualizando as primeiras cinco linhas:
 Visualizando as últimas cinco linhas.
 [![Screenshot-28.png](https://i.postimg.cc/Y0c3s5pS/Screenshot-28.png)](https://postimg.cc/TL9gyH58)
 
+
 Verificando as infomações:
 [![Screenshot-29.png](https://i.postimg.cc/90V9TCmy/Screenshot-29.png)](https://postimg.cc/phGyMNnd)
+
+
 Ao analisar rapidamente essas informações, parece que na coluna Carrossel existem apenas 8 valores não nulos, mas isso é um equívoco. Na realidade, os valores nulos correspondem a postagens que não são do tipo carrossel. Portanto, em vez de nulo, deveriam ser marcados como "N". Então teremos que atribuir o valor "N" para essa coluna.
 
 ## Tratando os valores nulos.
