@@ -2,6 +2,8 @@
 ### Os dados foram coletados da plataforma kaggle, e estão disnponíveis na pasta chamada dataset.
 ### Basicamente, o dataset contém informações de uma página do Instagram, incluindo o tipo de postagem, data, número de curtidas, visualizações, número de pessoas presentes nas publicações e se a postagem é parte de uma campanha. Ele também inclui dados sobre as interações.
 
+Para este projeto, foi usado apenas o módulo pandas.
+
 Visualizando as primeiras cinco linhas:
 ![Visualizando as primeiras linhas](https://i.postimg.cc/Hxvz9rNb/Screenshot-27.png)
 
