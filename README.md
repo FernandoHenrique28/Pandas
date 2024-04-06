@@ -45,7 +45,7 @@ Cinco primeiros registros com mais curtidas:
 [![Screenshot-32.png](https://i.postimg.cc/HxPQqfdM/Screenshot-32.png)](https://postimg.cc/VrnrMZSs)
 
 Cinco primeiros registros com menos curtidas:
-[![Screenshot-32.png](https://i.postimg.cc/HxPQqfdM/Screenshot-32.png)](https://postimg.cc/VrnrMZSs)
+[![Screenshot-27.png](https://i.postimg.cc/cCxz4j5q/Screenshot-27.png)](https://postimg.cc/N9nDdNcb)
 
 Insights:
 - Podemos observar que no top 5 todas as postagens tinham pessoas e eram fotos de campanha.
