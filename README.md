@@ -65,23 +65,23 @@ Note que o groupby já permite visualizar que as publicações que fazem parte d
 
 Insight:
 
-Postagens com pessoas engajam muito mais para essa marca, sendo 3 vezes maior de quando não tem pessoas
+Postagens com pessoas engajam muito mais para essa marca, sendo 3 vezes maior de quando não tem pessoas nas publicações.
 
 [![Screenshot-37.png](https://i.postimg.cc/154FF9D1/Screenshot-37.png)](https://postimg.cc/CzTdTpvc)
 
 Insight:
-Quando é uma postagem de campanha, o engajamento também é melhor!
+Quando é uma postagem sobre uma campanha, o engajamento também é melhor!
 
 
 [![Screenshot-38.png](https://i.postimg.cc/pTXrtZZM/Screenshot-38.png)](https://postimg.cc/WDCTG0C5)
 
 Insight:
 
-A média quando tem pessoas E é publicação de campanhas é de cerca de 19,4 mil curtidas, já quando é apenas pessoas (sem campanha passa para quase 10 mil e se não tiver pessoas chega no máximo a 5,9 mil mesmo em campanhas
+Observa-se que o engajamento médio de publicações vinculadas a campanhas e realizadas por pessoas é de aproximadamente 19,4 mil curtidas. Quando não há campanha envolvida, esse número diminui para quase 10 mil. Por fim, quando não há pessoas envolvidas, o máximo de curtidas alcançadas é de 5,9 mil, mesmo em campanhas.
 
 Nesse caso a gente já consegue mostrar para a empresa a importância de incluir pessoas usando os seus produtos, o que gera um aumento considerável no engajamento.
 
 [![Screenshot-39.png](https://i.postimg.cc/j5FxYr2y/Screenshot-39.png)](https://postimg.cc/tZFQFwhg)
 
-E para finalizar, ao analisar a questão do vídeo, ele não parece mais tão ruim assim. Quando feito em campanha e usando pessoas ele teve um resultado bom, inclusive próximo a foto, o que poderia ter levado a média baixa é que só temos vídeo ou COM pessoa e COM campanha ou sem nenhum dos dois. 
-Não existe nenhum vídeo com apenas um dos dois (pessoa ou campanha) Já IGTV, mesmo tendo pessoa, não teve um resultado tão bom.
+
+E para finalizar, observa-se que o tipo de postagem Reels obteve mais engajamento, em curtidas e comentários. Este resultado pode auxiliar os tomadores de decisões a focarem mais em postagens do tipo Reels e entender o motivo da falta de engajamento dos outros tipos de postagem.
